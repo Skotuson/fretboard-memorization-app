@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+
+#signature{
+    font-size: 25px;
+}
+#notes{
+    font-size: 25px;
+}
+#selection{
+    margin-top: 5%;
+    text-align: center;
+}
+#question{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 30px;
+}
+#answer{
+   color:white;
+   text-align: center;
+   font-size: 30px;
+}
+#bttnBar{
+    text-align: center;
+}
+#showBttn{
+    font-size: 28px;
+    cursor: pointer;
+}
+#nextBttn{
+    font-size: 28px;
+    cursor: pointer;
+}
